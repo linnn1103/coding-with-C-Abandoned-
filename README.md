@@ -7,7 +7,10 @@
 * 格式化輸出
 * 跳脫序列
 * 格式化輸入  
-* 控制結構（if、switch、while、for）  
+* If條件式
+* Switch條件
+* For迴圈
+* While迴圈
 ## 進階  
 * 標準輸入輸出（stdin、stdout、stderr）  
 * 陣列  
