@@ -10,7 +10,8 @@
 * If條件式
 * Switch條件
 * For迴圈
-* While迴圈
+* While迴圈  
+* break、 continue、goto  
 ## 進階  
 * 標準輸入輸出（stdin、stdout、stderr）  
 * 陣列  
