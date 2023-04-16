@@ -24,10 +24,11 @@
 * 函式
 * 函式指標
 * 標準函式庫（stdio、stdlib、string、math等）  
+* 動態記憶體配置（malloc、calloc、realloc、free）   
 ## 深入  
 * 檔案操作  
 * C語言記憶體模型
-* 動態記憶體配置（malloc、calloc、realloc、free）  
+ 
 * 編譯器最佳化      
 * 函式庫的編寫與使用
 * 多執行緒平行化  
